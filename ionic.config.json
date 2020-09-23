@@ -1,5 +1,7 @@
 {
   "name": "date-time-issue-blank",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
